@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1587145209 source:c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587144469 source:c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\comandossys.c
+	<stdio.h>
+	<stdlib.h>
+
+1587144989 source:c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"comandosSys.h"
+	"validar.h"
+	"calcular.h"
+
+1587090713 c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\menu.h
+
+1587090713 c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\comandossys.h
+
+1587139284 source:c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\calcular.c
+	<stdio.h>
+	<stdlib.h>
+
+1587090713 c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\validar.h
+
+1587090713 c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\calcular.h
+
+1587140663 source:c:\users\wally\desktop\labo-prog 1\tp1 2020\calculadora\validar.c
+	<stdio.h>
+	<stdlib.h>
+	"comandosSys.h"
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1589509330 source:c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\arraysemployees.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ArraysEployees.h"
+	"Functions.h"
+
+1589577173 c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\arrayseployees.h
+	<stdio.h>
+	<stdlib.h>
+
+1589508766 source:c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArraysEployees.h"
+	"menu.h"
+
+1588371657 source:c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1589579023 c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1587918463 c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\menu.h
+
+1589493301 source:c:\users\wally\desktop\labo-prog 1\tp2 2020\tp 2 laboratorio programacion\employees\menu.c
+	<stdio.h>
+	"Functions.h"
+
